@@ -20,3 +20,5 @@ CalCal là một dự án phần mềm được phát triển trong khuôn khổ
 3. Từ danh sách thực phẩm có sẵn, lựa chọn các món ăn và nhập số lượng để ghi lại lượng calo nạp vào.
 4. Từ danh sách bài tập có sẵn, lựa chọn các bài tập và thời gian thực hiện để ghi lại lượng calo tiêu thụ.
 5. Ứng dụng sẽ hiển thị thông tin về lượng calo đã nạp vào và tiêu thụ trong ngày.
+
+báo cáo : https://docs.google.com/document/d/1AcWZpaEiH5eaZHL6MZRBaiKQ9to0UiRj9X8ol1gS_gs/edit?usp=sharing
