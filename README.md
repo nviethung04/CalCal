@@ -4,13 +4,8 @@ CalCal là một dự án phần mềm được phát triển trong khuôn khổ
 
 ## Thành viên nhóm
 
-- Nguyễn Quốc Huy (nhóm trưởng, lead developer)
+- Nguyễn Việt Hùng (nhóm trưởng, lead developer)
 - Nguyễn Minh Khoa (tester)
-- Nguyễn Thị Thanh Thủy (tester)
-- Đỗ Phương Quỳnh (tester)
-- Vũ Duy Hưng (UI designer & architect)
-- Nguyễn Việt Hùng (UI designer & architect)
-- Nguyễn Anh Thi (UI designer & architect)
 
 ## Tính năng chính
 
